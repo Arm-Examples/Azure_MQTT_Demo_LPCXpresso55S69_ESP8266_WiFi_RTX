@@ -1,0 +1,11 @@
+[
+{"vendor": "ARM", "name": "mbedTLS", "version": "1.7.0"},
+{"vendor": "MDK-Packs", "name": "Azure_IoT", "version": "1.0.3"},
+{"vendor": "ARM", "name": "CMSIS"},
+{"vendor": "Keil", "name": "ARM_Compiler"},
+{"vendor": "Keil", "name": "LPCXpresso55S69_BSP", "version": "1.1.0"},
+{"vendor": "NXP", "name": "LPC55S69_DFP", "version": "13.0.0"},
+{"vendor": "NXP", "name": "LPCXpresso55S69_BSP", "version": "13.0.0"},
+{"vendor": "ARM", "name": "CMSIS-Driver"},
+{"vendor": "MDK-Packs", "name": "IoT_Socket"}
+]
